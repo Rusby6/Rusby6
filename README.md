@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Rusby
 
-<!--
-**Rusby6/Rusby6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+💻 Desarrollador junior en formación  
+🚀 Buscando prácticas o primera oportunidad en desarrollo web
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Git & GitHub
+
+---
+
+## 📂 Proyectos destacados
+
+🔹 **Gestor de Tareas**  
+Aplicación web para crear, editar y eliminar tareas. (Actualmente trabajando para que funcione con DB)
+
+🔹 **GeoQuiz**  
+Juego de preguntas de geografía hecho con JavaScript.
+
+🔹 **Comparador de Videojuegos**  
+Web para comparar videojuegos usando datos dinámicos.
+
+
+---
+
+## 📫 Contacto
+
+- Email: *(chyzhruslan@gmail.com)*
+
+---
+
+⭐ Siempre aprendiendo y mejorando como desarrollador
