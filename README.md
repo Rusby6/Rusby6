@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Rusby
+# 👋 ¡Hola! Soy Ruslan
 
 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
 💻 Desarrollador junior en formación  
