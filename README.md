@@ -17,20 +17,6 @@
 
 ---
 
-## 📂 Proyectos destacados
-
-🔹 **Gestor de Tareas**  
-Aplicación web para crear, editar y eliminar tareas. (Actualmente trabajando para que funcione con DB)
-
-🔹 **GeoQuiz**  
-Juego de preguntas de geografía hecho con JavaScript.
-
-🔹 **Comparador de Videojuegos**  
-Web para comparar videojuegos usando datos dinámicos.
-
-
----
-
 ## 📫 Contacto
 
 - Email: *(chyzhruslan@gmail.com)*
