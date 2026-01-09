@@ -19,7 +19,8 @@
 
 ## 📫 Contacto
 
-- 📩 Email: *(chyzhruslan@gmail.com)*
+- 💻 [GitHub](https://github.com/Rusby6)
+- 📩 [Email](mailto:chyzhruslan@gmail.com)
 
 ---
 
