@@ -19,7 +19,7 @@
 
 ## 📫 Contacto
 
-- Email: *(chyzhruslan@gmail.com)*
+- 📩 Email: *(chyzhruslan@gmail.com)*
 
 ---
 
