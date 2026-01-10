@@ -7,8 +7,7 @@
 ---
 
 ## 🎨 **Portfolio Web**
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://portfolio-ruslan.netlify.app)
-*Ver mis proyectos, habilidades y disponibilidad para prácticas*
+[![Mi Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://portfolio-ruslan.netlify.app)
 
 ---
 
