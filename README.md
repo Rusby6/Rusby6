@@ -7,25 +7,35 @@
 ---
 
 ## 🎨 **Portfolio Web**
-[![Mi Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://portfolio-ruslan.netlify.app)
+<a href="https://portfolio-ruslan.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Mi Portfolio">
+</a>
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 ### 💻 **Lenguajes de Programación**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java" alt="Lenguajes">
+</a>
 
 ### 🛠️ **Otras Herramientas y Tecnologías**
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,eclipse,idea,laravel,mongodb,nodejs,npm,react)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,eclipse,idea,laravel,mongodb,nodejs,npm,react" alt="Herramientas">
+</a>
 
 ---
 
-
 ## 📫 Contacto
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chyzhruslan@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rusby6)
+<a href="mailto:chyzhruslan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="https://github.com/Rusby6" target="_blank">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 ---
 
