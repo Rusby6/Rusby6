@@ -7,7 +7,7 @@
 ---
 
 ## 🎨 **Portfolio Web**
-<a href="https://portfolio-ruslan.netlify.app" target="_blank">
+<a href="https://portfolio-ruslan.netlify.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Mi Portfolio">
 </a>
 
@@ -16,12 +16,12 @@
 ## 🛠️ Stack Tecnológico
 
 ### 💻 **Lenguajes de Programación**
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java" alt="Lenguajes">
 </a>
 
 ### 🛠️ **Otras Herramientas y Tecnologías**
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,eclipse,idea,laravel,mongodb,nodejs,npm,react" alt="Herramientas">
 </a>
 
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<a href="https://github.com/Rusby6" target="_blank">
+<a href="https://github.com/Rusby6" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
