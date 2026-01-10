@@ -16,11 +16,6 @@
 
 ---
 
-## 📁 Proyectos Destacados
-
-
-
----
 
 ## 📫 Contacto
 
