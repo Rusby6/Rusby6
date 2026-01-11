@@ -6,9 +6,10 @@
 
 ---
 
-## 🎨 **Portfolio Web**
+## 👀 **¡Echa un vistazo a mi portfolio!**
+ 
 <a href="https://portfolio-ruslan.netlify.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Mi Portfolio">
+  <img src="https://img.shields.io/badge/🚀_Visitar_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Mi Portfolio">
 </a>
 
 ---
